@@ -466,11 +466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Hosted\\StudentApp-DNH-master\\StudentApp\\StudentAPIModelCoreMVC.csproj",
+      "projectUniqueName": "D:\\Hosted\\StudentAPIModelCoreMVC\\StudentAPIModelCoreMVC\\StudentAPIModelCoreMVC.csproj",
       "projectName": "StudentAPIModelCoreMVC",
-      "projectPath": "D:\\Hosted\\StudentApp-DNH-master\\StudentApp\\StudentAPIModelCoreMVC.csproj",
+      "projectPath": "D:\\Hosted\\StudentAPIModelCoreMVC\\StudentAPIModelCoreMVC\\StudentAPIModelCoreMVC.csproj",
       "packagesPath": "C:\\Users\\black-coder\\.nuget\\packages\\",
-      "outputPath": "D:\\Hosted\\StudentApp-DNH-master\\StudentApp\\obj\\",
+      "outputPath": "D:\\Hosted\\StudentAPIModelCoreMVC\\StudentAPIModelCoreMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

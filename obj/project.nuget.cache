@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8JAZc/zfIHo5ndqq7w4sO4V7ZawL9VjGSCwY2YImvUqtvDwLfc6jfMAQDkbXmltx0KCRDK0KGfE0H3fQBC2Q3Q==",
+  "dgSpecHash": "N2/ncCcQ5BDqsml/Xh27Xzw8WZLs/CXyDp0XCOeDAauppQl6iMCCXavXzl0gkNuMBR0+pqySchThfl8sjhfkEA==",
   "success": true,
-  "projectFilePath": "D:\\Hosted\\StudentApp-DNH-master\\StudentApp\\StudentAPIModelCoreMVC.csproj",
+  "projectFilePath": "D:\\Hosted\\StudentAPIModelCoreMVC\\StudentAPIModelCoreMVC\\StudentAPIModelCoreMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\black-coder\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\black-coder\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
